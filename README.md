@@ -1,0 +1,2 @@
+# copyright
+Source code and data for the analyses reported in: Savage, P. E., Cronin, C., Müllensiefen, D., &amp; Atkinson, Q. D. (2018). Quantitative evaluation of music copyright infringement. In A. Holzapfel &amp; A. Pikrakis (Eds.), Proceedings of the 8th International Workshop on Folk Music Analysis (FMA2018) (pp. 61–66). Thessaloniki, Greece. Retrieved from http://fma2018.mus.auth.gr/files/papers/FMA2018_paper_4.pdf
